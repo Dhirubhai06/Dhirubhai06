@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Dhirubhai06&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b3b,100:8e0e00&height=200&section=header&text=Dhirubhai06&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20Django%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+%7C+Deep+Learning;Turning+Raw+Data+into+Insights;Building+Automation+with+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Python+Django+Backend+Developer;Machine+Learning+%7C+Deep+Learning;Building+REST+APIs+with+Django+%26+DRF;Turning+Raw+Data+into+Insights;Building+Automation+with+Python" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&labelColor=0ea5e9" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-FF3B3B?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&labelColor=8e0e00" alt="Open to Work"/>
 
-<img src="https://komarev.com/ghpvc/?username=Dhirubhai06&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Dhirubhai06?style=for-the-badge&color=7dd3fc&labelColor=0ea5e9&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Dhirubhai06&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Dhirubhai06?style=for-the-badge&color=ff3b3b&labelColor=8e0e00&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
@@ -19,29 +19,37 @@
 
 ```typescript
 const dhirubhai = {
-  title: "Data Science Enthusiast",
+  title: "Python Django Backend Developer | Data Science Enthusiast",
   stack: [
-    "Python", "SQL", "MySQL",
+    "Python", "Django", "Django REST Framework (DRF)", "FastAPI",
+    "SQL", "MySQL", "PostgreSQL", "SQLite",
     "Scikit-learn", "TensorFlow", "PyTorch",
     "Power BI", "Tableau",
-    "Pandas", "NumPy", "Matplotlib", "Seaborn",
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "OpenPyXL",
     "Excel", "Jupyter Notebook",
-    "n8n", "ChatGPT API", "Google Sheets API",
+    "Postman", "Git", "GitHub",
+    "n8n", "ChatGPT API", "Gmail API", "Google Sheets API", "Webhooks",
     "AWS", "Workflow Automation"
   ],
   focusAreas: [
+    "Backend Development", "REST API Design",
+    "Database Design & Integration",
     "Machine Learning", "Deep Learning",
     "Data Cleaning", "EDA",
     "Predictive Analytics", "Dashboard Development",
     "Statistics", "Problem Solving"
   ],
   launchedProjects: [
+    "Invoice-Management-Web-Application",
     "customer_behavior_analysis",
     "Automatic-Mail-Sender"
   ],
-  certifications: [],
-  status: "Actively building & exploring data-driven solutions 🚀",
-  openTo: ["Data Analyst Roles", "Machine Learning Internships", "Collaborations"]
+  certifications: [
+    "Statistics 101 — IBM (IBM SkillsBuild), 2026",
+    "Data Analyst 101 — Microsoft & Simplilearn SkillUp, 2026"
+  ],
+  status: "Actively building & exploring backend + data-driven solutions 🚀",
+  openTo: ["Python Django Developer Roles", "Backend Developer Roles", "Data Analyst Roles", "Machine Learning Internships", "Collaborations"]
 };
 ```
 
@@ -49,11 +57,32 @@ const dhirubhai = {
 
 ## 🚀 Featured Projects
 
+### 🧾 Invoice Management Web Application
+
+<div align="left">
+<a href="https://github.com/dhiru-bhai-aranya/Invoice-Management-Web-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Invoice-Management-Web-Application&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="Invoice-Management-Web-Application"/>
+</a>
+</div>
+
+A Django-based invoice management application handling customer details, invoice amounts, and payment status. Built with URL routing and dynamic page rendering using Django Views and Templates, and Django Template Language (DTL) for dynamic formatting. Uses SQLite and SQL queries to store, retrieve, and filter invoice records, including identifying unpaid invoices.
+
+| Layer | Technology |
+|---|---|
+| Backend Framework | Django, Django Views & Templates |
+| Templating | Django Template Language (DTL) |
+| Database | SQLite, SQL |
+| Core Features | CRUD Operations, Invoice & Payment Tracking |
+
+🔗 [Code](https://github.com/dhiru-bhai-aranya/Invoice-Management-Web-Application)
+
+<br/>
+
 ### 📊 Customer Behavior Analysis
 
 <div align="left">
 <a href="https://github.com/Dhirubhai06/customer_behavior_analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=customer_behavior_analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="customer_behavior_analysis"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=customer_behavior_analysis&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="customer_behavior_analysis"/>
 </a>
 </div>
 
@@ -70,20 +99,20 @@ An end-to-end Data Analytics workflow — from raw data collection to actionable
 
 <br/>
 
-### 📧 HR Mail Automation System
+### 📧 AI Email Automation System (HR Mail Automation)
 
 <div align="left">
 <a href="https://github.com/Dhirubhai06/Automatic-Mail-Sender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Automatic-Mail-Sender&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Automatic-Mail-Sender"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Automatic-Mail-Sender&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="Automatic-Mail-Sender"/>
 </a>
 </div>
 
-An automated Python application that sends personalized job application emails to HR recruiters using the Gmail API. Securely authenticates via Google OAuth 2.0, pulls recruiter data from Google Sheets, auto-attaches resumes, updates sending status, and maintains detailed logs.
+An automated Python application that sends personalized job application emails to HR recruiters using the Gmail API. Securely authenticates via Google OAuth 2.0, pulls recruiter data from an Excel database via Google Sheets, auto-attaches resumes, applies randomized send delays, updates sending status, and maintains detailed logs for Sent, Skipped, and Failed emails.
 
 | Layer | Technology |
 |---|---|
 | Authentication | Google OAuth 2.0 |
-| Data Source | Google Sheets API |
+| Data Source | Google Sheets API, Excel, OpenPyXL |
 | Automation | Gmail API, Python |
 | Logging | Status Tracking & Logs |
 
@@ -93,9 +122,16 @@ An automated Python application that sends personalized job application emails t
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Tools**
+**Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,django,fastapi&theme=dark" />
+
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-FF3B3B?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8E0E00?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws&theme=dark" />
 
 **Data Science & ML**
 
@@ -103,21 +139,18 @@ An automated Python application that sends personalized job application emails t
 
 **Visualization & BI**
 
-<img src="https://skillicons.dev/icons?i=" />
+![Power BI](https://img.shields.io/badge/Power%20BI-FF3B3B?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-8E0E00?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF3B3B?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8E0E00?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF3B3B?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Automation & Integration**
 
-**Cloud & Automation**
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF3B3B?style=for-the-badge&logo=n8n&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-8E0E00?style=for-the-badge&logo=openai&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail%20API-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-8E0E00?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 **Dev Tools**
 
@@ -129,23 +162,23 @@ An automated Python application that sends personalized job application emails t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhirubhai06&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&icon_color=7dd3fc" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirubhai06&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhirubhai06&show_icons=true&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117&icon_color=ff3b3b" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirubhai06&layout=compact&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
 
-<img src="https://streak-stats.demolab.com?user=Dhirubhai06&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Dhirubhai06&theme=dark&border=ff3b3b&background=0D1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" width="60%"/>
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhirubhai06&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dhirubhai06&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </div>
 
 ## 📊 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirubhai06&theme=nord&bg_color=0D1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirubhai06&theme=react-dark&bg_color=0D1117&color=ff3b3b&line=ff3b3b&point=ffffff&hide_border=true" width="90%"/>
 </div>
 
 <br/>
@@ -158,11 +191,11 @@ An automated Python application that sends personalized job application emails t
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dhirubhaiaranya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Email-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0e00,100:ff3b3b&height=120&section=footer" width="100%"/>
