@@ -1,68 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b3b,100:8e0e00&height=200&section=header&text=Dhirubhai06&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Django%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="assets/banner-v2.svg" width="100%" alt="Dhirubhai06 - Python Django Backend Developer"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Python+Django+Backend+Developer;Building+REST+APIs+with+Django+%26+DRF;Full+Stack+Apps+with+Django+%2B+React;Payments%2C+Auth+and+Order+Systems;Building+Automation+with+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=FF5A2A&center=true&vCenter=true&width=720&lines=Python+Django+Backend+Developer;Building+REST+APIs+with+Django+%26+DRF;Full+Stack+Apps+with+Django+%2B+React;Payments%2C+Auth+and+Order+Systems" alt="Typing SVG" />
 </a>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-FF3B3B?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&labelColor=8e0e00" alt="Open to Work"/>
-
-<img src="https://komarev.com/ghpvc/?username=Dhirubhai06&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Dhirubhai06?style=for-the-badge&color=ff3b3b&labelColor=8e0e00&logo=github&logoColor=white" alt="Followers"/>
-
-</div>
 
 <br/>
 
-## 🧠 Who I Am
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-yes-2ee59d?style=flat-square&labelColor=0b0818" alt="Open to work"/>
+<img src="https://img.shields.io/github/followers/Dhirubhai06?style=flat-square&label=FOLLOWERS&color=ff5a2a&labelColor=0b0818" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Dhirubhai06&style=flat-square&label=PROFILE+VIEWS&color=7c6cf0&labelColor=0b0818" alt="Profile views"/>
+
+</div>
+
+---
+
+## 01 / WHO I AM
+
+Python Django Developer passionate about building fast, scalable web applications and REST APIs. Skilled in Django, Django REST Framework, React, PostgreSQL, SQL, and Git.
 
 ```typescript
 const dhirubhai = {
-  title: "Python Django Backend Developer",
-  stack: [
-    "Python", "Django", "Django REST Framework (DRF)", "FastAPI",
-    "SQL", "MySQL", "PostgreSQL", "SQLite",
-    "React", "JavaScript", "Tailwind CSS",
-    "Postman", "Git", "GitHub",
-    "Razorpay", "LLM API", "Gmail API", "Google Sheets API", "Webhooks",
-    "Pandas", "NumPy", "OpenPyXL", "Power BI",
-    "n8n", "AWS", "Workflow Automation"
+  role: "Python Django Backend Developer",
+  focus: [
+    "REST API design",
+    "Authentication and payment integration",
+    "Database design and integration",
+    "API testing",
+    "Automation"
   ],
-  focusAreas: [
-    "Backend Development", "REST API Design",
-    "Database Design & Integration",
-    "Authentication & Payment Integration",
-    "API Testing", "Automation"
-  ],
-  launchedProjects: [
-    "shopease-ecommerce",
-    "Invoice-Management-Web-Application",
-    "Automatic-Mail-Sender",
-    "customer_behavior_analysis"
-  ],
-  certifications: [
-    "Statistics 101 — IBM (IBM SkillsBuild), 2026",
-    "Data Analyst 101 — Microsoft & Simplilearn SkillUp, 2026"
-  ],
-  status: "Actively building backend and full stack projects 🚀",
-  openTo: ["Python Django Developer Roles", "Backend Developer Roles", "Collaborations"]
+  currentlyBuilding: "ShopEase - a full stack e-commerce app",
+  openTo: ["Python Django Developer roles", "Backend Developer roles", "Collaborations"]
 };
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## 02 / FEATURED PROJECT
 
 ### 🛒 ShopEase - Full Stack E-Commerce App
 
-<div align="left">
 <a href="https://github.com/Dhirubhai06/shopease-ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=shopease-ecommerce&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="shopease-ecommerce"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=shopease-ecommerce&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="shopease-ecommerce"/>
 </a>
-</div>
 
-A full stack e-commerce app with a Django REST Framework backend and a React (Vite) frontend. Features token authentication, cart, wishlist, saved addresses, transactional checkout with stock locking, Razorpay payments (test mode) with server-side signature verification, order cancellation and a status workflow managed from the Django admin, order confirmation emails, AI natural-language product search, Swagger docs and 30+ automated API tests.
+A full stack e-commerce app with a Django REST Framework backend and a React (Vite) frontend. Token authentication, cart, wishlist, saved addresses, transactional checkout with stock locking, Razorpay payments (test mode) with server-side signature verification, order cancellation and a status workflow managed from the Django admin, order confirmation emails, AI natural-language product search, Swagger docs and 30+ automated API tests.
 
 | Layer | Technology |
 |---|---|
@@ -73,132 +56,92 @@ A full stack e-commerce app with a Django REST Framework backend and a React (Vi
 
 🔗 [Code](https://github.com/Dhirubhai06/shopease-ecommerce)
 
-<br/>
+---
+
+## 03 / MORE PROJECTS
 
 ### 🧾 Invoice Management Web Application
 
-<div align="left">
 <a href="https://github.com/Dhirubhai06/Invoice-Management-Web-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Invoice-Management-Web-Application&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="Invoice-Management-Web-Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Invoice-Management-Web-Application&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="Invoice-Management-Web-Application"/>
 </a>
-</div>
 
-A Django-based invoice management application handling customer details, invoice amounts, and payment status. Built with URL routing and dynamic page rendering using Django Views and Templates, and Django Template Language (DTL) for dynamic formatting. Uses SQLite and SQL queries to store, retrieve, and filter invoice records, including identifying unpaid invoices.
-
-| Layer | Technology |
-|---|---|
-| Backend Framework | Django, Django Views & Templates |
-| Templating | Django Template Language (DTL) |
-| Database | SQLite, SQL |
-| Core Features | CRUD Operations, Invoice & Payment Tracking |
+A Django-based invoice management application for customer details, invoice amounts and payment status. Uses Django Views, Templates and the Django Template Language (DTL) for dynamic pages, and SQLite with SQL queries to store, retrieve and filter invoice records, including unpaid invoices.
 
 🔗 [Code](https://github.com/Dhirubhai06/Invoice-Management-Web-Application)
 
-<br/>
+### 📧 Email Automation System
 
-### 📧 Email Automation System (HR Mail Automation)
-
-<div align="left">
 <a href="https://github.com/Dhirubhai06/Automatic-Mail-Sender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Automatic-Mail-Sender&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="Automatic-Mail-Sender"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Automatic-Mail-Sender&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="Automatic-Mail-Sender"/>
 </a>
-</div>
 
-An automated Python application that sends personalized job application emails to HR recruiters using the Gmail API. Securely authenticates via Google OAuth 2.0, pulls recruiter data from an Excel database via Google Sheets, auto-attaches resumes, applies randomized send delays, updates sending status, and maintains detailed logs for Sent, Skipped, and Failed emails.
-
-| Layer | Technology |
-|---|---|
-| Authentication | Google OAuth 2.0 |
-| Data Source | Google Sheets API, Excel, OpenPyXL |
-| Automation | Gmail API, Python |
-| Logging | Status Tracking & Logs |
+A Python application that sends personalized job application emails to HR recruiters through the Gmail API. Authenticates with Google OAuth 2.0, reads recruiter data from Google Sheets and Excel, attaches resumes, applies randomized send delays and logs Sent, Skipped and Failed emails.
 
 🔗 [Code](https://github.com/Dhirubhai06/Automatic-Mail-Sender)
 
-<br/>
-
 ### 📊 Customer Behavior Analysis (SQL and Power BI)
 
-<div align="left">
 <a href="https://github.com/Dhirubhai06/customer_behavior_analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=customer_behavior_analysis&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" alt="customer_behavior_analysis"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=customer_behavior_analysis&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="customer_behavior_analysis"/>
 </a>
-</div>
 
-A data analytics project that loads and cleans raw data with Python and Pandas, analyzes it with SQL, and presents the findings in an interactive Power BI dashboard and a written report.
-
-| Layer | Technology |
-|---|---|
-| Data Loading & Cleaning | Python, Pandas |
-| Analysis | SQL |
-| Visualization | Power BI |
+Loads and cleans raw data with Python and Pandas, analyzes it with SQL and presents the findings in an interactive Power BI dashboard and a written report.
 
 🔗 [Code](https://github.com/Dhirubhai06/customer_behavior_analysis)
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 04 / TECH STACK
 
-**Backend & Languages**
+**Backend and languages**
 
 <img src="https://skillicons.dev/icons?i=py,django,fastapi,js&theme=dark" />
 
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-FF3B3B?style=for-the-badge&logo=django&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-8E0E00?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-FF3B3B?style=for-the-badge&logo=swagger&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-7c6cf0?style=flat-square&logo=django&logoColor=white&labelColor=0b0818)
+![Postman](https://img.shields.io/badge/Postman-ff5a2a?style=flat-square&logo=postman&logoColor=white&labelColor=0b0818)
+![Swagger](https://img.shields.io/badge/Swagger-22d3a0?style=flat-square&logo=swagger&logoColor=white&labelColor=0b0818)
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
 
-**Databases & Cloud**
+**Databases and cloud**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws&theme=dark" />
 
-**Automation & Integration**
+**Integrations and automation**
 
-![Razorpay](https://img.shields.io/badge/Razorpay-8E0E00?style=for-the-badge&logo=razorpay&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF3B3B?style=for-the-badge&logo=n8n&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail%20API-8E0E00?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-FF3B3B?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-7c6cf0?style=flat-square&logo=razorpay&logoColor=white&labelColor=0b0818)
+![Gmail API](https://img.shields.io/badge/Gmail%20API-ff5a2a?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0818)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-22d3a0?style=flat-square&logo=googlesheets&logoColor=white&labelColor=0b0818)
+![n8n](https://img.shields.io/badge/n8n-7c6cf0?style=flat-square&logo=n8n&logoColor=white&labelColor=0b0818)
 
-**Data Tools**
+**Data tools**
 
-![Pandas](https://img.shields.io/badge/Pandas-FF3B3B?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-8E0E00?style=for-the-badge&logo=powerbi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff5a2a?style=flat-square&logo=pandas&logoColor=white&labelColor=0b0818)
+![Power BI](https://img.shields.io/badge/Power%20BI-22d3a0?style=flat-square&logo=powerbi&logoColor=white&labelColor=0b0818)
 
-**Dev Tools**
+**Dev tools**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
-<br/>
+---
 
-## 📈 GitHub Stats
+## 05 / GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhirubhai06&show_icons=true&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117&icon_color=ff3b3b" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirubhai06&layout=compact&theme=dark&border_color=ff3b3b&title_color=ff3b3b&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhirubhai06&show_icons=true&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirubhai06&layout=compact&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818" width="42%"/>
 
-<img src="https://streak-stats.demolab.com?user=Dhirubhai06&theme=dark&border=ff3b3b&background=0D1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Dhirubhai06&theme=dark&border=3a3a55&background=0b0818&ring=ff5a2a&fire=ff5a2a&currStreakLabel=ff5a2a" width="60%"/>
 
 </div>
 
-## 🏆 Trophies
+---
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhirubhai06&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</div>
-
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirubhai06&theme=react-dark&bg_color=0D1117&color=ff3b3b&line=ff3b3b&point=ffffff&hide_border=true" width="90%"/>
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
+## 06 / CONNECT
 
 <div align="center">
 
@@ -206,11 +149,9 @@ A data analytics project that loads and cleans raw data with Python and Pandas, 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dhirubhaiaranya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-ff5a2a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0e00,100:ff3b3b&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0818,100:6d4bd8&height=100&section=footer" width="100%"/>
