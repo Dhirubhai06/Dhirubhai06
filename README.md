@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Dhirubhai06 | Data Science | Python Django Developer" width="100%" />
+<img src="./assets/hero.svg" alt="Dhirubhai06 |Python Django Developer" width="100%" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ### 01 / WHO I AM
 
-Data Analyst & aspiring Data Scientist passionate about transforming data into actionable insights. Skilled in Python, SQL, Power BI, Excel, and Machine Learning.
+Python Django Developer building scalable web apps and REST APIs. Django, DRF, React, PostgreSQL, SQL.
 
 ```js
 const dhirubhai = {
