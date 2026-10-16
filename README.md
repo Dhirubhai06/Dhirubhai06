@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="assets/banner-v2.svg" width="100%" alt="Dhirubhai06 - Python Django Backend Developer"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=FF5A2A&center=true&vCenter=true&width=720&lines=Python+Django+Backend+Developer;Building+REST+APIs+with+Django+%26+DRF;Full+Stack+Apps+with+Django+%2B+React;Payments%2C+Auth+and+Order+Systems" alt="Typing SVG" />
 </a>
