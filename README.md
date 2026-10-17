@@ -40,7 +40,7 @@ const dhirubhai = {
 ### 🛒 ShopEase - Full Stack E-Commerce App
 
 <a href="https://github.com/Dhirubhai06/shopease-ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=shopease-ecommerce&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="shopease-ecommerce"/>
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=shopease-](https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=shopease-ecommerce&v=2)ecommerce&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="shopease-ecommerce"/>
 </a>
 
 A full stack e-commerce app with a Django REST Framework backend and a React (Vite) frontend. Token authentication, cart, wishlist, saved addresses, transactional checkout with stock locking, Razorpay payments (test mode) with server-side signature verification, order cancellation and a status workflow managed from the Django admin, order confirmation emails, AI natural-language product search, Swagger docs and 30+ automated API tests.
