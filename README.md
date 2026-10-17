@@ -14,7 +14,7 @@
 
 ---
 
-## 01 / WHO I AM
+## / WHO I AM
 
 Python Django Developer passionate about building fast, scalable web applications and REST APIs. Skilled in Django, Django REST Framework, React, PostgreSQL, SQL, and Git.
 
@@ -35,7 +35,7 @@ const dhirubhai = {
 
 ---
 
-## 02 / FEATURED PROJECT
+## / FEATURED PROJECT
 
 ### 🛒 ShopEase - Full Stack E-Commerce App
 
@@ -55,19 +55,6 @@ A full stack e-commerce app with a Django REST Framework backend and a React (Vi
 🔗 [Code](https://github.com/Dhirubhai06/shopease-ecommerce)
 
 ---
-
-## 03 / MORE PROJECTS
-
-### 🧾 Invoice Management Web Application
-
-<a href="https://github.com/Dhirubhai06/Invoice-Management-Web-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhirubhai06&repo=Invoice-Management-Web-Application&theme=dark&border_color=3a3a55&title_color=ff5a2a&text_color=c9d1d9&bg_color=0b0818&icon_color=7c6cf0" alt="Invoice-Management-Web-Application"/>
-</a>
-
-A Django-based invoice management application for customer details, invoice amounts and payment status. Uses Django Views, Templates and the Django Template Language (DTL) for dynamic pages, and SQLite with SQL queries to store, retrieve and filter invoice records, including unpaid invoices.
-
-🔗 [Code](https://github.com/Dhirubhai06/Invoice-Management-Web-Application)
-
 ### 📧 Email Automation System
 
 <a href="https://github.com/Dhirubhai06/Automatic-Mail-Sender">
